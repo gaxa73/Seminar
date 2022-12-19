@@ -1,0 +1,15 @@
+/Users/ivanhudan/Documents/Seminar/bin/Debug/net7.0/Seminar
+/Users/ivanhudan/Documents/Seminar/bin/Debug/net7.0/Seminar.deps.json
+/Users/ivanhudan/Documents/Seminar/bin/Debug/net7.0/Seminar.runtimeconfig.json
+/Users/ivanhudan/Documents/Seminar/bin/Debug/net7.0/Seminar.dll
+/Users/ivanhudan/Documents/Seminar/bin/Debug/net7.0/Seminar.pdb
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/Seminar.csproj.AssemblyReference.cache
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/Seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/Seminar.AssemblyInfoInputs.cache
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/Seminar.AssemblyInfo.cs
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/Seminar.csproj.CoreCompileInputs.cache
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/Seminar.dll
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/refint/Seminar.dll
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/Seminar.pdb
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/Seminar.genruntimeconfig.cache
+/Users/ivanhudan/Documents/Seminar/obj/Debug/net7.0/ref/Seminar.dll
